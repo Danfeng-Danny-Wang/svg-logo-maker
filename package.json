@@ -1,9 +1,9 @@
 {
   "name": "svg-logo-maker",
   "version": "1.0.0",
+  "type": "module",
   "description": "A command-line application that takes user input to generate a svg logo",
   "main": "index.js",
-  "type": "module",
   "scripts": {
     "test": "jest"
   },
